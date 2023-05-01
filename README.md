@@ -1,6 +1,8 @@
 # Zombie-Shooter-FPS-game_Unity
 
 <p>A simple FPS game fighting against Zombies.</p><br>
+
+<p>Download game: <a href="https://github.com/halac123b/Zombie-Shooter-FPS-game_Unity/tree/Build">Build</a></p>
 <p>Some details about the game:</p>
 <ul>
   <li>Player has 3 types of guns with different stats about shoot delay, range and damage. Scroll mouse or press 1, 2, 3 to switch among them.</li>
